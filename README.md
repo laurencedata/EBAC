@@ -16,7 +16,7 @@ O repositório está estruturado em duas principais seções:
 
 ```Exercícios/```: Nesta pasta estão os exercícios práticos realizados durante o curso. Cada exercício foi realizado em um caderno notebook, pelo Google Colab/VS Code, com o contexto de cada módulo específico.
 
-## Os materiais estão separados em algumas etapas:
+# Os materiais estão separados em algumas etapas:
 
 ### Python:
 
