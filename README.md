@@ -84,7 +84,7 @@ Módulo 26: Aprendizado de Máquina - Séries Temporais
 
 Módulo 27: Visualização Interativa de Dados
 
-Módulo 28: 2º PROJETO - Dashboard com Google Looker Studio
+Módulo 28: 2º Projeto - Dashboard com Google Looker Studio
 
 ## SQL:
 
