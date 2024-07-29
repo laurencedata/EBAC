@@ -1,7 +1,7 @@
 # Repositório - EBAC 📚
 
 <p align="center">
-  <img src="Analyst Dashboard Interface.jpeg" alt="Banner">
+  <img src="https://i.pinimg.com/736x/95/fe/7a/95fe7a6efd8ed2054a5552dda2d78731.jpg" alt="Banner">
 </p>
 
 # 📊 Curso: "Profissão: Analista de Dados”
