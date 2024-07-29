@@ -12,9 +12,9 @@ Este repositório abriga os materiais e projetos desenvolvidos durante o curso "
 
 O repositório está estruturado em duas principais seções:
 
-```Projetos/```: Contém todos os projetos desenvolvidos ao longo do curso. Cada projeto possui sua própria pasta, com uma descrição detalhada do tema, objetivos e os arquivos Jupyter Notebook utilizados.
+[```Exercícios/```](https://github.com/laurencedata/EBAC/tree/main/Exerc%C3%ADcios): Nesta pasta estão os exercícios práticos realizados durante o curso. Cada exercício foi realizado em um caderno notebook, pelo Google Colab e/ou VS Code, com o contexto de cada módulo específico.
 
-```Exercícios/```: Nesta pasta estão os exercícios práticos realizados durante o curso. Cada exercício foi realizado em um caderno notebook, pelo Google Colab/VS Code, com o contexto de cada módulo específico.
+[```Projetos/```](https://github.com/laurencedata/EBAC/tree/main/Projetos): Contém todos os projetos desenvolvidos ao longo do curso. Cada projeto possui sua própria pasta, com uma descrição detalhada do tema, objetivos e os arquivos Jupyter Notebook utilizados.
 
 # 📋 Os materiais estão organizados da seguinte forma:
 
