@@ -1,4 +1,4 @@
-# Projetos de Análise de Dados 📝
+# Projetos 🎲 🔎 📊
 
 <p align="center">
   <img src="https://i.pinimg.com/564x/b4/c5/f1/b4c5f19dfaca933a37fc9b935f651800.jpg" alt="Banner">
