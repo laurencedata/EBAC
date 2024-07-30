@@ -60,7 +60,7 @@ O repositório está estruturado em duas principais seções:
 
 [Módulo 18: Controle de versão II](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M18_Controle_Versao_II.ipynb)
 
-Módulo 19: Controle de versão III
+[Módulo 19: Controle de versão III](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M19.Controle_Versao_III.ipynb)
 
 ## Matemática e Estatística: ➕
 
