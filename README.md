@@ -82,7 +82,7 @@ O repositório está estruturado em duas principais seções:
 
 ## Análise de dados para Inteligência de Negócios (BI): 📈 
 
-Módulo 27: Visualização Interativa de Dados
+[Módulo 27: Visualização Interativa de Dados](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M27.Visualizacao_Dados.ipynb)
 
 Módulo 28: 2º Projeto - Dashboard com Google Looker Studio
 
