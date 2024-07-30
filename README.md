@@ -20,39 +20,39 @@ O repositório está estruturado em duas principais seções:
 
 ### Python: 🎲
 
-Módulo 1: Variáveis e Tipos de Dados
+[Módulo 1: Variáveis e Tipos de Dados](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M1.Variaveis_TiposDados.ipynb)
 
-Módulo 2: Estrutura de Dados
+[Módulo 2: Estrutura de Dados](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M2.Estruturas_Dados.ipynb)
 
-Módulo 3: Fluxo Condicional e Repetição
+[Módulo 3: Fluxo Condicional e Repetição](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M3.Estrutura_Condicional.ipynb)
 
-Módulo 4: Arquivos e Funções
+[Módulo 4: Arquivos e Funções](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M4.Arquivos_Funcoes.ipynb)
 
-Módulo 5: Programação Funcional
+[Módulo 5: Programação Funcional](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M5.Programacao_Funcional.ipynb)
 
-Módulo 6: Programação Orientada a Objetos
+[Módulo 6: Programação Orientada a Objetos](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M6.Prog_Orien_Objetos.ipynb)
 
-Módulo 7: Módulos e Pacotes
+[Módulo 7: Tratamento de Erros](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M7.Tratamento_Erros.ipynb)
 
-Módulo 8: Tratamento de Erros
+[Módulo 8: Módulos e Pacotes](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M8.Modulos_Pacotes.ipynb)
 
-Módulo 9: Scripting
+[Módulo 9: Scripting](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M9.Scripting.ipynb)
 
 ### Análise de Dados: 🔍
 
-Módulo 10: Coleta de Dados I
+[Módulo 10: Coleta de Dados I](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M10.Coleta_Dados.ipynb)
 
-Módulo 11: Coleta de Dados II
+[Módulo 11: Coleta de Dados II](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M11.Coleta_Dados_II.ipynb)
 
-Módulo 12: Data Wrangling I 
+[Módulo 12: Data Wrangling I](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M12.Data_Wrangling_I.ipynb)
 
-Módulo 13: Data Wrangling II 
+[Módulo 13: Data Wrangling II](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M13.Data_Wrangling_II.ipynb)
 
-Módulo 14: Visualização de Dados I
+[Módulo 14: Visualização de Dados I](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M14.Visualizacao_Dados_I.ipynb)
 
-Módulo 15: Visualização de Dados II
+[Módulo 15: Visualização de Dados II](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M15.Visualizacao_Dados_II.ipynb)
 
-Módulo 16: 1º Projeto - Análise Exploratória de Dados em Python - Loggi 
+[Módulo 16: 1º Projeto - Análise Exploratória de Dados em Python - Loggi](https://github.com/laurencedata/projeto-analise-dados/blob/main/Projeto_Loggi_AED.ipynb)
 
 ## Git e GitHub: ⚙️
 
