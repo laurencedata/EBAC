@@ -56,7 +56,7 @@ O repositório está estruturado em duas principais seções:
 
 ## Git e GitHub: ⚙️
 
-Módulo 17: Controle de versão I
+[Módulo 17: Controle de versão I](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M17.Controle_Versao_I.ipynb)
 
 Módulo 18: Controle de versão II
 
