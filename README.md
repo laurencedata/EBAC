@@ -70,7 +70,7 @@ O repositório está estruturado em duas principais seções:
 
 ## Conceitos de Machine Learning: 🤖
 
-Módulo 22: Aprendizado de Máquina - Fundamentos
+[Módulo 22: Aprendizado de Máquina - Fundamentos](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M22.Fundamentos_ML.ipynb)
 
 Módulo 23: Aprendizado de Máquina - Regressão
 
