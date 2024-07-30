@@ -78,7 +78,7 @@ O repositório está estruturado em duas principais seções:
 
 [Módulo 25: Aprendizado de Máquina - Agrupamento](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M25.Agrupamento_ML.ipynb)
 
-Módulo 26: Aprendizado de Máquina - Séries Temporais
+[Módulo 26: Aprendizado de Máquina - Séries Temporais](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M26.Series_Temporais_ML.ipynb)
 
 ## Análise de dados para Inteligência de Negócios (BI): 📈 
 
