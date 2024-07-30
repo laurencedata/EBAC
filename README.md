@@ -76,7 +76,7 @@ O repositório está estruturado em duas principais seções:
 
 [Módulo 24: Aprendizado de Máquina - Classificação](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M24.Classificacao_ML.ipynb)
 
-Módulo 25: Aprendizado de Máquina - Agrupamento
+[Módulo 25: Aprendizado de Máquina - Agrupamento](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M25.Agrupamento_ML.ipynb)
 
 Módulo 26: Aprendizado de Máquina - Séries Temporais
 
