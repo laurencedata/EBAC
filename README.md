@@ -72,7 +72,7 @@ O repositório está estruturado em duas principais seções:
 
 [Módulo 22: Aprendizado de Máquina - Fundamentos](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M22.Fundamentos_ML.ipynb)
 
-Módulo 23: Aprendizado de Máquina - Regressão
+[Módulo 23: Aprendizado de Máquina - Regressão](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M23.Regressao_ML.ipynb)
 
 Módulo 24: Aprendizado de Máquina - Classificação
 
