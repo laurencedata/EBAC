@@ -58,7 +58,7 @@ O repositório está estruturado em duas principais seções:
 
 [Módulo 17: Controle de versão I](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M17.Controle_Versao_I.ipynb)
 
-Módulo 18: Controle de versão II
+[Módulo 18: Controle de versão II](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M18_Controle_Versao_II.ipynb)
 
 Módulo 19: Controle de versão III
 
