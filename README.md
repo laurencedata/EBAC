@@ -64,9 +64,9 @@ O repositório está estruturado em duas principais seções:
 
 ## Matemática e Estatística: ➕
 
-[Módulo 20: Fundamentos da Matemática](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M20.Fundamentos_Matematica.ipynb)
+[Módulo 20: Fundamentos de Matemática](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M20.Fundamentos_Matematica.ipynb)
 
-Módulo 21: Fundamentos da Estatística
+[Módulo 21: Fundamentos de Estatística](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M21.Fundamentos_Estatistica.ipynb)
 
 ## Conceitos de Machine Learning: 🤖
 
