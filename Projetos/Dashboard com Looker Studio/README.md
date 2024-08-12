@@ -20,7 +20,7 @@ O objetivo principal deste repositório é criar visualizações detalhadas dos 
 
 Todas as fontes de dados utilizadas neste projeto estão citadas e detalhadas no notebook.
 
-#### 🔎 **Etapas da Análise:**
+## 🔎 **Etapas da Análise:**
 
 **Extração dos Dados:** Coleta e importação dos dados brutos de fontes distintas.
 
@@ -35,8 +35,11 @@ Todo o processo é documentado neste notebook, garantindo a reprodução e a com
 ## ⚙️ Ferramentas Utilizadas:
 
 **Pandas e NumPy:** Utilizados para o tratamento, manipulação e análise dos dados.
+
 **Datetime:** Empregado para selecionar e manipular datas, facilitando a definição do período de análise.
+
 **Iterador:** Ferramenta para filtrar dados de forma eficiente, processando linha por linha nos datasets.
+
 **Looker Studio:** Plataforma utilizada para criar visualizações interativas dos dados, facilitando a interpretação dos resultados.
 
 ## 📊 Exploração Interativa dos Dados:
