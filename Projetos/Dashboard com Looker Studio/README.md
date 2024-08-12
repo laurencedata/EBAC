@@ -6,7 +6,7 @@
 
 ## 📌 Introdução:
 
-Este projeto busca explorar os dados da COVID-19 no Brasil durante o ano de 2021. O foco é realizar uma análise completa dos dados, desde a importação até a visualização. Utilizamos o Looker Studio para criar um painel interativo, permitindo uma análise detalhada e a comunicação eficaz dos insights obtidos.
+Este projeto busca explorar os dados da COVID-19 no Brasil durante o ano de 2021. O foco foi realizar uma análise completa dos dados, desde a importação até a visualização. Utilizamos o Looker Studio para criar um painel interativo, permitindo uma análise detalhada e a comunicação eficaz dos insights obtidos.
 
 ## 🎯 Objetivos:
 
