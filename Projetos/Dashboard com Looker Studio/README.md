@@ -10,7 +10,7 @@ Este projeto busca explorar os dados da COVID-19 no Brasil durante o ano de 2021
 
 ## 🎯 Objetivos:
 
-O objetivo principal deste repositório é criar visualizações detalhadas dos dados relacionados à pandemia de COVID-19. Os pontos específicos são:
+O objetivo principal deste repositório foi criar visualizações detalhadas dos dados relacionados à pandemia de COVID-19. Os pontos específicos são:
 
 - Esclarecer informações sobre a pandemia no Brasil em 2021.
 - Simplificar a compreensão dos dados da COVID-19.
