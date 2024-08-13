@@ -52,7 +52,7 @@ O repositório está estruturado em duas principais seções:
 
 [Módulo 15: Visualização de Dados II](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M15.Visualizacao_Dados_II.ipynb)
 
-[Módulo 16: 1º Projeto - Análise Exploratória de Dados em Python - Loggi](https://github.com/laurencedata/projeto-analise-dados/blob/main/Projeto_Loggi_AED.ipynb)
+[Módulo 16: 1º Projeto - Análise Exploratória de Dados em Python - Loggi](https://github.com/laurencedata/EBAC/tree/main/Projetos/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20Loggi)
 
 ## Git e GitHub: ⚙️
 
