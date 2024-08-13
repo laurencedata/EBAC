@@ -84,7 +84,7 @@ O repositório está estruturado em duas principais seções:
 
 [Módulo 27: Visualização Interativa de Dados](https://github.com/laurencedata/EBAC/blob/main/Exerc%C3%ADcios/M27.Visualizacao_Dados.ipynb)
 
-[Módulo 28: 2º Projeto - Dashboard com Google Looker Studio](https://github.com/laurencedata/EBAC/blob/main/Projetos/Dashboard%20com%20Looker%20Studio/M28.Projeto-Covid.ipynb)
+[Módulo 28: 2º Projeto - Dashboard com Google Looker Studio - COVID-19](https://github.com/laurencedata/EBAC/blob/main/Projetos/Dashboard%20com%20Looker%20Studio/M28.Projeto-Covid.ipynb)
 
 ## SQL: 📑
 
