@@ -4,6 +4,10 @@
   <img src="https://agevolution.canalrural.com.br/wp-content/uploads/2019/06/loggi-logo.jpg" alt="Loggi Logo">
 </p>
 
+# 🔗 Link:
+
+**Notebook:** [Projeto_Loggi_AED.ipynb](https://github.com/laurencedata/EBAC/blob/main/Projetos/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20Loggi/Projeto_Loggi_AED.ipynb)
+
 # 📌 Introdução 
 
 Com o constante crescimento do comércio eletrônico e a evolução das expectativas dos consumidores em relação à rapidez e eficiência das entregas, o setor de logística tornou-se um dos pilares fundamentais para o sucesso das empresas em um mercado cada vez mais competitivo.
@@ -65,8 +69,3 @@ Para este projeto, utilizamos os próprios dados disponibilizados pela Loggi nos
 # 🔎 Análise Exploratória de Dados (AED):
 
 A Análise Exploratória de Dados (AED) é uma abordagem estatística para investigar padrões, tendências e relações nos dados, com o objetivo de compreender seu significado e revelar insights úteis. Utilizando técnicas visuais e quantitativas, a AED ajuda a identificar padrões emergentes, outliers e relações entre variáveis, fornecendo uma base sólida para a tomada de decisões informadas e a formulação de hipóteses em estudos mais aprofundados. No contexto deste projeto, esse tipo de análise é empregada para explorar e compreender os dados coletados, permitindo uma melhor compreensão do fenômeno em questão e orientando o desenvolvimento de estratégias e análises adicionais.
-
-# 🔗 Link:
-
-**Notebook:** [Projeto_Loggi_AED.ipynb](https://github.com/laurencedata/EBAC/blob/main/Projetos/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20Loggi/Projeto_Loggi_AED.ipynb)
-
