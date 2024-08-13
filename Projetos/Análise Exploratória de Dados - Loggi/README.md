@@ -1,4 +1,4 @@
-# 📊 Projeto Análise Exploratória de Dados em Python
+# Projeto Análise Exploratória de Dados de Logística 🚛
 
 <p align="center">
   <img src="https://agevolution.canalrural.com.br/wp-content/uploads/2019/06/loggi-logo.jpg" alt="Loggi Logo">
