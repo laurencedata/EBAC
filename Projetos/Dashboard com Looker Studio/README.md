@@ -4,6 +4,12 @@
   <img src="https://s3.static.brasilescola.uol.com.br/be/2021/02/covid-19.jpg" alt="COVID-19" />
 </p>
 
+## 🔗 Links:
+
+**Notebook:** [Projeto Covid-19 no Brasil em 2019](https://github.com/laurencedata/EBAC/blob/main/Projetos/Dashboard%20com%20Looker%20Studio/M28.Projeto-Covid.ipynb)
+
+**Dashboard:** [Looker Studio](https://lookerstudio.google.com/reporting/ff8dcc89-8661-43d7-9e1e-ad8301ca2445)
+
 ## 📌 Introdução:
 
 Este projeto busca explorar os dados da COVID-19 no Brasil durante o ano de 2021. O foco foi realizar uma análise completa dos dados, desde a importação até a visualização. Utilizamos o Looker Studio para criar um painel interativo, permitindo uma análise detalhada e a comunicação eficaz dos insights obtidos.
@@ -97,9 +103,3 @@ Durante o ano de 2021, a pandemia de COVID-19 teve um impacto profundo no Brasil
 São Paulo se destacou como a região mais afetada, com um total superior a 100 mil mortes e mais de 2 milhões de casos ao longo do ano. Em contrapartida, os estados de Acre, Amapá e Roraima foram os menos impactados, registrando menos de 60 mil casos e menos de 5 mil mortes cada.
 
 Após o devastador pico de abril, o número de mortes começou a diminuir gradativamente, atingindo pouco mais de 4 mil em dezembro. O período mais crítico em termos de novos casos ocorreu entre março e junho, quando a maior parte das infecções foi registrada.
-
-## 🔗 Links:
-
-**Notebook:** [Projeto Covid-19 no Brasil em 2019](https://github.com/laurencedata/EBAC/blob/main/Projetos/Dashboard%20com%20Looker%20Studio/M28.Projeto-Covid.ipynb)
-
-**Dashboard:** [Looker Studio](https://lookerstudio.google.com/reporting/ff8dcc89-8661-43d7-9e1e-ad8301ca2445)
