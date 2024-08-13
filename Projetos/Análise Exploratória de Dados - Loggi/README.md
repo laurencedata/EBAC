@@ -68,5 +68,5 @@ A Análise Exploratória de Dados (AED) é uma abordagem estatística para inves
 
 # 🔗 Link:
 
-**Notebook:** [Projeto_Loggi_AED.ipynb](https://github.com/laurencedata/projeto-analise-dados/blob/main/Projeto_Loggi_AED.ipynb)
+**Notebook:** [Projeto_Loggi_AED.ipynb](https://github.com/laurencedata/EBAC/blob/main/Projetos/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20-%20Loggi/Projeto_Loggi_AED.ipynb)
 
