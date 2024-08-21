@@ -88,7 +88,7 @@ O repositório está estruturado em duas principais seções:
 
 ## SQL: 📑
 
-Módulo 29: Banco de Dados e Linguagem SQL
+[Módulo 29: Banco de Dados e Linguagem SQL](https://github.com/laurencedata/EBAC-Analista-de-Dados/blob/main/Exerc%C3%ADcios/M29.Base_Dados_SQL.ipynb)
 
 Módulo 30: Tabelas em SQL
 
