@@ -94,7 +94,7 @@ O repositório está estruturado em duas principais seções:
 
 [Módulo 31: Seleção e Ordenação em SQL](https://github.com/laurencedata/EBAC-Analista-de-Dados/blob/main/Exerc%C3%ADcios/M31.Selecao_Ordenacao.ipynb)
 
-Módulo 32: Filtros Condicionais
+[Módulo 32: Filtros Condicionais](https://github.com/laurencedata/EBAC-Analista-de-Dados/blob/main/Exerc%C3%ADcios/M32.Filtragem_Selecao.ipynb)
 
 Módulo 33: Agregações
 
