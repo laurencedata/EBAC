@@ -98,7 +98,7 @@ O repositório está estruturado em duas principais seções:
 
 [Módulo 33: Agregações](https://github.com/laurencedata/EBAC-Analista-de-Dados/blob/main/Exerc%C3%ADcios/M33.Agregacoes.ipynb)
 
-Módulo 34: Múltiplas Tabelas
+[Módulo 34: Múltiplas Tabelas](https://github.com/laurencedata/EBAC-Analista-de-Dados/blob/main/Exerc%C3%ADcios/M34.Multiplas_Tabelas.ipynb)
 
 Módulo 35: Técnicas Avançadas
 
