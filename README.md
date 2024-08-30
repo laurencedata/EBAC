@@ -100,7 +100,7 @@ O repositório está estruturado em duas principais seções:
 
 [Módulo 34: Múltiplas Tabelas](https://github.com/laurencedata/EBAC-Analista-de-Dados/blob/main/Exerc%C3%ADcios/M34.Multiplas_Tabelas.ipynb)
 
-Módulo 35: Técnicas Avançadas
+[Módulo 35: Técnicas Avançadas](https://github.com/laurencedata/EBAC-Analista-de-Dados/blob/main/Exerc%C3%ADcios/M35.Tecnicas_Avancadas.ipynb)
 
 Módulo 36: 3º Projeto - Análise de dados crédito com SQL
 
